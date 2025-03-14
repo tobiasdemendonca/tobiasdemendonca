@@ -1,8 +1,6 @@
 ### Toby de Mendonça
 Just trying to build cool things.
 
-Ask me anything about Python 🐍 or rowing 🚣🏽‍♂️.
-
 <!--
 **tobiasdemendonca/tobiasdemendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
